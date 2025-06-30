@@ -17,3 +17,12 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 - Data preprocessing and augmentation
 - Model training and evaluation
 - Accuracy tracking and visualization
+
+### 2.🌸 Oxford 102 Flower Classification  
+**Description:**  
+This project implements a deep learning model using PyTorch to classify images from the Oxford 102 Flower dataset. The dataset consists of 8,189 images categorized into 102 flower classes with varying shapes, colors, and sizes, making it a challenging classification task.
+
+**Features:**
+- Data preprocessing and image augmentation
+- Fine-tuning and model optimization
+- Performance evaluation and accuracy visualization
